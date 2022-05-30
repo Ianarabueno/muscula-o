@@ -1,9 +1,9 @@
-# Livro de receitas :man_cook:
+# Muscle Center :muscle:
 
-Olá! Bem vindo ao meu livro de receitas :wave:
+Olá! Bem vindo ao centro da musculação :wave:
 
-- Strogonoff de frango
+- Exercícios funcionais.
 
-- Pavê
+- Aeróbicas.
 
   
